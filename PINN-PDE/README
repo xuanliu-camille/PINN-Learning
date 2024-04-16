@@ -1,0 +1,2 @@
+This folder includes 2 approaches to solve PDE based on PINN: sciANN and pytorch
+study case: 2D possion equation
